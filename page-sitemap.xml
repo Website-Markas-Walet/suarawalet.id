@@ -1,173 +1,173 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//suarawalet.id/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://suarawalet.id/berita</loc>
+		<loc>/berita</loc>
 		<lastmod>2023-03-24T12:09:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/</loc>
+		<loc>/</loc>
 		<lastmod>2023-03-31T04:56:49+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-13.49.33-e1677466287507-1024x788.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-13.49.33-e1677466287507-1024x788.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Panggil-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/FD-Suara-Panggil-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Tarik-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/FD-Suara-Tarik-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Inap-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/FD-Suara-Inap-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_86521-scaled-e1680059087816-736x1024.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/IMG_86521-scaled-e1680059087816-736x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/03/IMG_1662-scaled-e1680063560566-736x1024.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1662-scaled-e1680063560566-736x1024.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/beranda</loc>
+		<loc>/format</loc>
+		<lastmod>2023-04-04T03:46:09+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_34642-q3fzkx3llm48j1zshfdgmzzucy1rf2cmbryp5zhd2o.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/suara-tarik</loc>
+		<lastmod>2023-04-03T08:48:19+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_3405-q3fzfyi9j3br9577ga6ch929hqi0sknmb80fzeu5ww.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/suara-inap</loc>
+		<lastmod>2023-04-03T08:36:53+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_9382-scaled-q3fnpd8exitxkd1c345kze2v0feb7dzz7larnzf1bk.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/suara-panggil</loc>
+		<lastmod>2023-04-03T07:30:13+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_9384-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/produk</loc>
+		<lastmod>2023-04-03T07:05:01+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/FD-Suara-Panggil-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/FD-Suara-Tarik.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/FD-Suara-Inap.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/implementasi</loc>
+		<lastmod>2023-04-03T05:05:26+01:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/beranda</loc>
 		<lastmod>2023-03-31T04:57:51+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-13.49.33-e1677466287507-1024x788.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/WhatsApp-Image-2023-02-25-at-13.49.33-e1677466287507-1024x788.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Panggil-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/FD-Suara-Panggil-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Tarik-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/FD-Suara-Tarik-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Inap-300x300.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/FD-Suara-Inap-300x300.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_86521-scaled-e1680059087816-736x1024.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/IMG_86521-scaled-e1680059087816-736x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/03/IMG_1662-scaled-e1680063560566-736x1024.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/03/IMG_1662-scaled-e1680063560566-736x1024.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/waktu</loc>
+		<loc>/waktu</loc>
 		<lastmod>2023-03-31T04:18:05+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_3819-q2m6ijohlo1sberkq8hpu8mwaa8m38g556mc4p4cxc.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_3819-q2m6ijohlo1sberkq8hpu8mwaa8m38g556mc4p4cxc.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/musim</loc>
+		<loc>/musim</loc>
 		<lastmod>2023-03-31T03:59:29+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_9875-scaled-q2rmf4mjxii382hwlr451jmvhgyljcpjg8126s6r8w.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_9875-scaled-q2rmf4mjxii382hwlr451jmvhgyljcpjg8126s6r8w.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/lokasi</loc>
+		<loc>/lokasi</loc>
 		<lastmod>2023-03-31T03:43:11+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_8694-scaled-q2raigcb3joge565rgfawpx2ldud4owfuhb91vscxc.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_8694-scaled-q2raigcb3joge565rgfawpx2ldud4owfuhb91vscxc.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/frekuensi</loc>
+		<loc>/frekuensi</loc>
 		<lastmod>2023-03-30T09:15:30+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_3575-q2rfk9aiyyjzyz395jikocbmvbr4x5nfubt5nk83g0.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_3575-q2rfk9aiyyjzyz395jikocbmvbr4x5nfubt5nk83g0.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/format</loc>
-		<lastmod>2023-03-30T09:14:21+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_34642-q3fzkx3llm48j1zshfdgmzzucy1rf2cmbryp5zhd2o.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/durasi</loc>
+		<loc>/durasi</loc>
 		<lastmod>2023-03-30T09:10:51+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_1634-scaled-q2rfgu5o3nvfq2244kag3pe91um1wt2lpecjsbao34.jpg</image:loc>
+			<image:loc>/wp-content/uploads/elementor/thumbs/IMG_1634-scaled-q2rfgu5o3nvfq2244kag3pe91um1wt2lpecjsbao34.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/suara-inap</loc>
-		<lastmod>2023-03-30T09:07:25+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_9382-scaled-q3fnpd8exitxkd1c345kze2v0feb7dzz7larnzf1bk.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/suara-tarik</loc>
-		<lastmod>2023-03-30T09:06:36+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_3405-q3fzfyi9j3br9577ga6ch929hqi0sknmb80fzeu5ww.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/suara-panggil</loc>
-		<lastmod>2023-03-30T09:05:25+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_9384-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/kualitas</loc>
+		<loc>/kualitas</loc>
 		<lastmod>2023-03-29T05:42:22+01:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/produk</loc>
-		<lastmod>2023-03-29T05:37:27+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Panggil.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Tarik.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/FD-Suara-Inap.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/tentang</loc>
+		<loc>/tentang</loc>
 		<lastmod>2023-03-24T12:05:50+00:00</lastmod>
 		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/mangkok1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/02/mangkok1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://suarawalet.id/implementasi</loc>
-		<lastmod>2023-03-13T06:50:34+00:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/penerapan</loc>
+		<loc>/penerapan</loc>
 		<lastmod>2023-03-13T04:00:59+00:00</lastmod>
 	</url>
 </urlset>

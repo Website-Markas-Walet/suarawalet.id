@@ -27,6 +27,35 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://suarawalet.id/produk</loc>
+		<lastmod>2023-05-10T09:27:55+01:00</lastmod>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/2023/04/FD-Suara-Panggil-150x150.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/2023/04/FD-Suara-Tarik.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/2023/04/FD-Suara-Inap.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://suarawalet.id/lokasi</loc>
+		<lastmod>2023-04-10T07:18:57+01:00</lastmod>
+		<image:image>
+			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_8694-scaled-q2raigcb3joge565rgfawpx2ldud4owfuhb91vscxc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://suarawalet.id/format</loc>
 		<lastmod>2023-04-04T03:46:09+01:00</lastmod>
 		<image:image>
@@ -52,28 +81,6 @@
 		<lastmod>2023-04-03T07:30:13+01:00</lastmod>
 		<image:image>
 			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_9384-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/produk</loc>
-		<lastmod>2023-04-03T07:05:01+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/04/FD-Suara-Panggil-150x150.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/04/FD-Suara-Tarik.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/04/FD-Suara-Inap.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3819-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3815-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/2023/02/IMG_3818-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -123,13 +130,6 @@
 		<lastmod>2023-03-31T03:59:29+01:00</lastmod>
 		<image:image>
 			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_9875-scaled-q2rmf4mjxii382hwlr451jmvhgyljcpjg8126s6r8w.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://suarawalet.id/lokasi</loc>
-		<lastmod>2023-03-31T03:43:11+01:00</lastmod>
-		<image:image>
-			<image:loc>https://suarawalet.id/wp-content/uploads/elementor/thumbs/IMG_8694-scaled-q2raigcb3joge565rgfawpx2ldud4owfuhb91vscxc.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
